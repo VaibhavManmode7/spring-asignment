@@ -1,0 +1,16 @@
+package Frontend;
+
+public class app {
+	// app.js
+	function loadCreateForm() {
+	    // Implement code to load create customer form
+	}
+
+	function syncCustomers() {
+	    // Implement code to call the sync API
+	}
+
+	// Add similar functions for updating, listing, and deleting customers
+
+
+}
